@@ -1,0 +1,15 @@
+Much of this class relies on the Jurafsky D. and Martin J. (2020) text as well as the Natural Language Toolkit Python library and text, so it is highly recommended that you read the prescribed chapters for each assignment and use that as the basis for the exercises.
+
+The first section of the class focuses on computational linguistics, text processing, basic language models. Before we start "digging deep" into the neural network processes for NLP -- the most efficient and now commonly used portion of NLP -- we will learn the predecessor algorithms and approaches to NLP. Often, you will find that it is important to understand how text is processed and managed to be fed into algorithms that would have rules to provide some categorization or classification of the output, assist in document similarity and searching, facilitate the translation of information, or even extract information from a corpus.
+
+Thus, most of the body of educational resources with NLP will start with teaching basic text processing such as regular expressions, stemming and lemmatizing words, stop words, and tokenization within a corpus. Subsequently, shallow learning techniques where language modeling is at the fore uses statistical and tribalistic approaches such as logistic regression, naive Bayes, and vectorization of words to support models like Continuous Bag of Words (CBOW), N-grams, GloVe, among other approaches. These are critical techniques for supporting some of the use cases for NLP mentioned above. As availability of data became more widely available, and computer processing power both enhanced technological while simultaneously becoming much less expensive in terms of availability.
+
+This assignment is an individual assignment in which you will focus primarily on pre-processing of data and shallow learning techniques.
+
+Readings are provided below, but please ensure you have access to the Github Repository and submit the copy of your notebook in your forked repository as part of the final assignment. 
+
+You will find the link to the repository below: https://github.com/Kanchan-YU/Assignment-1.gitLinks to an external site.
+
+For an overview on Github and best practices, please refer here: https://docs.github.com/en/repositories/creating-and-managing-repositories/best-practices-for-repositories 
+
+ 
